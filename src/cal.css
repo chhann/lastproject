@@ -1,0 +1,16 @@
+.dot {
+    height: 4px;
+    width: 4px;
+    background-color: #63A1FF;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 1px;
+}
+
+.modal-cal {
+    position: absolute;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}
