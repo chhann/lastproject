@@ -12,5 +12,20 @@
     width: 100vw;
     display: flex;
     justify-content: center;
-
 }
+
+.saving-period {
+    border: 1px black solid;
+}
+
+.saving-bord {
+    border: 1px black solid;
+    background-color: rgb(190, 187, 187);
+}
+
+.period-bord {
+    margin-top: 5px;
+    border: 1px black solid;
+    background-color: white;
+}
+
